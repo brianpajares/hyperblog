@@ -1,7 +1,6 @@
 Hola 
 
-Es mi primer programa
-
+Mi nombre es Brian Pajares, tengo 32 
 Si
 
 
