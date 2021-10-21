@@ -1,0 +1,29 @@
+body
+{
+    color:blue;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+#Cabecera
+{
+    background: red;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#container
+{
+    width: 90%;
+    padding: 1em;
+    text-align: left;
+    border: 4px rgb(133, 85, 85);
+    margin: auto;
+}
+#containerh1
+{
+    font-size: 30px;
+}
